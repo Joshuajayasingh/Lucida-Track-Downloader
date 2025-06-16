@@ -77,4 +77,3 @@ This project is for **educational** or **personal** use only.
 It is **not affiliated with lucida.su, Qobuz, or VLC**.
 Use responsibly.
 
-```
