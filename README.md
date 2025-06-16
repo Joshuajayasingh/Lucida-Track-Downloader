@@ -1,4 +1,3 @@
-````markdown
 #  LucidaTrackDownloader
 
 A Python script that automates high-quality music search and download from [lucida.su](https://lucida.su) and instantly plays it using VLC.
