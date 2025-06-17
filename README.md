@@ -41,7 +41,7 @@ pip install selenium
 Edit the script if needed:
 
 ```python
-DOWNLOAD_DIR = r"Enter your preffered download location"  # Set to your preferred download folder
+DOWNLOAD_DIR = r"Enter your preferred download location"  # Set to your preferred download folder
 vlc_path = r"C:\Program Files\VideoLAN\VLC\vlc.exe"  # Ensure VLC path is correct
 ```
 
